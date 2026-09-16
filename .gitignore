@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Buildozer & Android outputs
+.buildozer/
+bin/
+
+# Saves & local temp data
+save_game.json
+custom_assets/
+
+# IDE
+.idea/
+.vscode/
+*.iml
