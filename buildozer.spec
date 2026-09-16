@@ -45,6 +45,9 @@ android.archs = arm64-v8a
 # (bool) enables Android auto backup feature (Android API >=23)
 android.allow_backup = True
 
+# (bool) Auto-accept SDK license
+android.accept_sdk_license = True
+
 # (str) presplash background colour
 android.presplash_color = #111117
 
